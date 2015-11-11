@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+body
+
+header{
+	width:100%;
+	height:auto;
+	text-align: center;
+	background: #7401DF;
+	
+}
+
+#G {
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+
+}
+
+p{
+	color: #fff;
+	width: 30%;
+	height: auto;
+	margin: 3%;
+}
+
+
+#G img {
+	width: 100%;
+	height: auto;
+}
+
+#M{
+	padding-top: 3%;
+	float: left;
+
+}
+
+#C{
+	float: left;
+	padding-top: 2%;
+	margin-left: 5%;
+}
+
+
+	
+
+	
+

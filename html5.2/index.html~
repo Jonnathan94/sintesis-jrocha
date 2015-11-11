@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>	
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+<header>
+	<div>
+		<h1>Jonnathan Rocha Velarde</h1>
+	</div>
+	
+</header>
+<div id="G">
+		<img src="Img/estrella.png"></div>
+
+	<p>Aunque la mayor parte del espacio que podemos observar está vacío, es inevitable que nos fijemos en esos puntitos que brillan. No es que el espacio vacío carezca de interés. Simplemente, las estrellas llaman la atención.</p>
+
+
+
+<div id="M">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses!2ses!4v1444582433393!6m8!1m7!1sM2y97Q90_pMQQJghu6jXSw!2m2!1d41.4437817!2d2.2292286!3f90!4f0!5f0.7820865974627469" width="563" height="438" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+<div id="C">
+	<iframe src="https://www.google.com/calendar/embed?src=jrvhtml5%40gmail.com&ctz=Europe/Madrid" style="border: 0" width="719" height="555" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68748056-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+</body>
+</html>
